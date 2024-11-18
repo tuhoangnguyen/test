@@ -1,0 +1,1 @@
+<h1 style="text-align: center;">Đây là trang product</h1>
